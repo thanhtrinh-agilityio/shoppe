@@ -1,0 +1,200 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageLayout render Should PageLayout match Snapshot 1`] = `
+<div>
+  <header
+    class="css-n5jh5q"
+  >
+    <h1
+      class="chakra-heading css-1dklj6k"
+    >
+      <img
+        alt="Logo Shoppe"
+        data-nimg="1"
+        decoding="async"
+        height="40"
+        loading="lazy"
+        src="/images/logo.png?w=256&q=75"
+        srcset="/images/logo.png?w=128&q=75 1x, /images/logo.png?w=256&q=75 2x"
+        style="color: transparent;"
+        width="125"
+      />
+    </h1>
+    <div
+      class="css-79elbk"
+    >
+      <div
+        class="css-c3i4bm"
+      >
+        <img
+          alt="Shopping Cart Icon"
+          data-nimg="fill"
+          data-testid="image"
+          decoding="async"
+          loading="lazy"
+          sizes="100vw"
+          src="/images/shoppingCart.svg?w=3840&q=75"
+          srcset="/images/shoppingCart.svg?w=640&q=75 640w, /images/shoppingCart.svg?w=750&q=75 750w, /images/shoppingCart.svg?w=828&q=75 828w, /images/shoppingCart.svg?w=1080&q=75 1080w, /images/shoppingCart.svg?w=1200&q=75 1200w, /images/shoppingCart.svg?w=1920&q=75 1920w, /images/shoppingCart.svg?w=2048&q=75 2048w, /images/shoppingCart.svg?w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+        />
+      </div>
+      <div
+        class="css-2jnr0l"
+      >
+        <p
+          class="chakra-text css-1xb8dar"
+        >
+          0
+        </p>
+      </div>
+    </div>
+  </header>
+  <main
+    class="css-qcp6ks"
+  >
+    Contents Page
+  </main>
+  <footer
+    class="css-xmbrgk"
+  >
+    <div
+      class="css-gg4vpm"
+    >
+      <nav
+        class="css-fd0xex"
+      >
+        <a
+          href="/contact"
+        >
+          Contact
+        </a>
+        <a
+          href="/terms-of-services"
+        >
+          Terms of services
+        </a>
+        <a
+          href="/shipping-and-return"
+        >
+          Shipping and Return
+        </a>
+      </nav>
+      <div
+        class="css-11xbhwq"
+      >
+        <p
+          class="chakra-text css-ozfm6u"
+        >
+          Give an email, get the newsletter.
+        </p>
+        <div
+          class="css-1o1su5v"
+        >
+          <img
+            alt="Right arrow"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="100vw"
+            src="/images/iconRight.svg?w=3840&q=75"
+            srcset="/images/iconRight.svg?w=640&q=75 640w, /images/iconRight.svg?w=750&q=75 750w, /images/iconRight.svg?w=828&q=75 828w, /images/iconRight.svg?w=1080&q=75 1080w, /images/iconRight.svg?w=1200&q=75 1200w, /images/iconRight.svg?w=1920&q=75 1920w, /images/iconRight.svg?w=2048&q=75 2048w, /images/iconRight.svg?w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-167212l"
+    >
+      <p
+        class="chakra-text css-tujbob"
+      >
+        <b
+          class="chakra-text css-lz4kvn"
+        >
+          © 2021 Shelly.
+        </b>
+         
+        Terms of use
+        <b
+          class="chakra-text css-lz4kvn"
+        >
+           
+          and
+        </b>
+         
+        privacy policy
+      </p>
+      <div
+        class="css-st3z69"
+      >
+        <div
+          class="css-14b8luf"
+        >
+          <img
+            alt="LinkIn Icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="100vw"
+            src="/images/inIcon.svg?w=3840&q=75"
+            srcset="/images/inIcon.svg?w=640&q=75 640w, /images/inIcon.svg?w=750&q=75 750w, /images/inIcon.svg?w=828&q=75 828w, /images/inIcon.svg?w=1080&q=75 1080w, /images/inIcon.svg?w=1200&q=75 1200w, /images/inIcon.svg?w=1920&q=75 1920w, /images/inIcon.svg?w=2048&q=75 2048w, /images/inIcon.svg?w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </div>
+        <div
+          class="css-14b8luf"
+        >
+          <img
+            alt="Facebook icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="100vw"
+            src="/images/facebook.svg?w=3840&q=75"
+            srcset="/images/facebook.svg?w=640&q=75 640w, /images/facebook.svg?w=750&q=75 750w, /images/facebook.svg?w=828&q=75 828w, /images/facebook.svg?w=1080&q=75 1080w, /images/facebook.svg?w=1200&q=75 1200w, /images/facebook.svg?w=1920&q=75 1920w, /images/facebook.svg?w=2048&q=75 2048w, /images/facebook.svg?w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </div>
+        <div
+          class="css-14b8luf"
+        >
+          <img
+            alt="Instagram icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="100vw"
+            src="/images/instagram.svg?w=3840&q=75"
+            srcset="/images/instagram.svg?w=640&q=75 640w, /images/instagram.svg?w=750&q=75 750w, /images/instagram.svg?w=828&q=75 828w, /images/instagram.svg?w=1080&q=75 1080w, /images/instagram.svg?w=1200&q=75 1200w, /images/instagram.svg?w=1920&q=75 1920w, /images/instagram.svg?w=2048&q=75 2048w, /images/instagram.svg?w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </div>
+        <div
+          class="css-14b8luf"
+        >
+          <img
+            alt="Twitter icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="100vw"
+            src="/images/twitter.svg?w=3840&q=75"
+            srcset="/images/twitter.svg?w=640&q=75 640w, /images/twitter.svg?w=750&q=75 750w, /images/twitter.svg?w=828&q=75 828w, /images/twitter.svg?w=1080&q=75 1080w, /images/twitter.svg?w=1200&q=75 1200w, /images/twitter.svg?w=1920&q=75 1920w, /images/twitter.svg?w=2048&q=75 2048w, /images/twitter.svg?w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
